@@ -12,6 +12,12 @@
 
 Este documento tem como objetivo apresentar o levantamento inicial de requisitos para o desenvolvimento de um Sistema de Gerenciamento de Portarias destinado ao Instituto Federal Catarinense – Campus Videira. O sistema visa apoiar os processos administrativos relacionados à solicitação, elaboração, emissão, acompanhamento, vigência e arquivamento de portarias institucionais.
 
+# Link do Protótipo
+
+O protótipo do sistema foi desenvolvido no Figma e pode ser acessado pelo link abaixo:
+
+https://www.figma.com/seu-link-aqui
+
 ---
 
 ## 1.2 Contextualização
