@@ -16,7 +16,7 @@ Este documento tem como objetivo apresentar o levantamento inicial de requisitos
 
 O protótipo do sistema foi desenvolvido no Figma e pode ser acessado pelo link abaixo:
 
-https://www.figma.com/seu-link-aqui
+[https://www.figma.com/seu-link-aqui](https://www.figma.com/design/HxLNnzBS1dfCG7NGcLBOBB/Landing_Page-Gestor_Portarias?node-id=1-136&t=NAKeVfRCCEPkHkjF-1)
 
 ---
 
